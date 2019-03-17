@@ -3,7 +3,7 @@ id: podcast
 name: Podcast
 heading: Hear us
 subheading: " in our podcast"
-image: "http://placehold.it/500x500"
+image: "http://placehold.it/500x200"
 image_link: "https://s3.amazonaws.com/superturnerbros-podcast/podcast.xml"
 ---
 
