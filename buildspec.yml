@@ -10,4 +10,4 @@ phases:
   build:
     commands:
       - bundle exec jekyll build
-      - aws s3 sync --exclude buildspec.yml --delete _site/ s3://superturnerbros.com
+      - aws s3 sync --exclude "buildspec.yml" --delete _site/ s3://superturnerbros.com
