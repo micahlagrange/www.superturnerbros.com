@@ -3,7 +3,7 @@ id: youtube
 name: Youtube
 heading: Watch us
 subheading: " on youtube"
-image: "https://loremflickr.com/499/499"
+image: "/assets/Stblogo3.png"
 image_link: "https://www.youtube.com/channel/UCKt051mQGpKnNf2Ehnl2bcg"
 ---
 
